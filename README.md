@@ -3,7 +3,7 @@ SOAL TES BOOTCAMP DUMBWAYS
 # 1.SOAL 1-3 
     HOW TO RUN
     1. git clone https://github.com/mugiwara404/dumbways
-    2. cd dumbways
+    2. cd bootcamp
     3. php namafile.php
     
 # 2. SOAL PROJEK
